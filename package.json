@@ -3,7 +3,8 @@
   "description": "Survey questions and overall structure of the questions for my Archipelago project.",
   "version": "0.0.1",
   "scripts": {
-    "test": "echo \"No test specified\" && exit 1"
+    "test": "echo \"No test specified\" && exit 1",
+    "build": "tsup src/index.ts --minify --dts --format cjs,esm --out-dir dist"
   },
   "repository": {
     "type": "git",
