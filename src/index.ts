@@ -1,1 +1,2 @@
-const aaa = 5;
+export const aaa: number = 5;
+console.log(aaa);
