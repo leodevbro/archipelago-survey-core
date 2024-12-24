@@ -1,12 +1,12 @@
 {
   "name": "archipelago-survey-core",
   "description": "Survey questions and overall structure of the questions for my Archipelago project.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "bin": {
-    "archipelago-survey-core": "./bin.js"
+    "archipelago-survey-core": "bin.js"
   },
   "scripts": {
     "test": "echo \"No test specified\" && exit 1",

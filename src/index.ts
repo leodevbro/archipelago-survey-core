@@ -5,7 +5,7 @@
 
 export const arpeSurveyCore = {
   readTest: () => {
-    console.log("archipelago-survey-core (v0.0.2) ready to use.");
+    console.log("archipelago-survey-core (v0.0.3) ready to use.");
   },
 
   b: {
