@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/leodevbro/archipelago-survey-core",
   "devDependencies": {
+    "tsup": "^8.3.5",
     "typescript": "^5.7.2"
   }
 }
