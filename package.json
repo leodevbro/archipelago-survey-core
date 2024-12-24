@@ -1,0 +1,22 @@
+{
+  "name": "archipelago-survey-core",
+  "description": "Survey questions and overall structure of the questions for my Archipelago project.",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leodevbro/archipelago-survey-core.git"
+  },
+  "keywords": [],
+  "author": "leodevbro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leodevbro/archipelago-survey-core/issues"
+  },
+  "homepage": "https://github.com/leodevbro/archipelago-survey-core",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
