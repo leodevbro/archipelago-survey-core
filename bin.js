@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-const mainGate = require("./dist/index");
+const { arpeSurveyCore } = require("./dist/index");
 
-mainGate.readTest();
+arpeSurveyCore.readTest();
